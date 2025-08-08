@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# .gitignore
+# Ignore a specific file containing secrets
+lib/api_key.dart
