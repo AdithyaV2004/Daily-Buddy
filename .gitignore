@@ -46,4 +46,4 @@ app.*.map.json
 
 # .gitignore
 # Ignore a specific file containing secrets
-lib/api_key.dart
+lib/config/api_key.dart
